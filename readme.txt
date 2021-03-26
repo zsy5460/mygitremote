@@ -10,3 +10,7 @@ stage
 git add
 git commit -m ""
 git push -u origin mater
+
+git add .
+git commit -m ""
+git push origin master
